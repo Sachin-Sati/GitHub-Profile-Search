@@ -39,7 +39,10 @@ A form component that:
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies:
+```bash
+git clone https://github.com/Sachin-Sati/GitHub-Profile-Search
+```
+3. Install dependencies:
 ```bash
 npm install
 ```
