@@ -40,7 +40,7 @@ A form component that:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sachin-Sati/GitHub-Profile-Search
+git clone https://github.com/Sachin-Sati/GitHub-Profile-Search.git
 ```
 3. Install dependencies:
 ```bash
